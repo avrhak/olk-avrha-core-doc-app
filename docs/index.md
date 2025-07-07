@@ -32,4 +32,4 @@ graph LR
 # API Reference
 
 ## User Endpoints
-[OAD(./docs/openapi.md)]
+[OAD(./docs/openapi.yaml)]
