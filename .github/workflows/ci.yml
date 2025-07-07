@@ -28,7 +28,6 @@ jobs:
           pip install mkdocs-mermaid2-plugin
           pip install neoteroi-mkdocs
           pip install pymdown-extensions
-          pip install mkdocs-openapi-extended
       - run: mkdocs gh-deploy --config-file ./mkdocs.yml --force
  
   deploy_mkdocs:
