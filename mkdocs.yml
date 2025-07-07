@@ -24,7 +24,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.details
-  - neoteroi.openapi
 
 extra_css:
   - stylesheets/mkdocsoad.css
