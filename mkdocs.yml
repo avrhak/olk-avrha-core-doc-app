@@ -27,8 +27,3 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/mkdocsoad.css
-
-nav:
-- Inicio: index.md
-- API:
-    - Referencia OpenAPI: openapi.md
