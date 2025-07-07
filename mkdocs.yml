@@ -24,6 +24,12 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.details
+  - neoteroi.openapi
 
 extra_css:
   - stylesheets/mkdocsoad.css
+
+nav:
+- Inicio: index.md
+- API:
+    - Referencia OpenAPI: openapi.md
