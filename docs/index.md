@@ -27,3 +27,11 @@ graph LR
   D --> B;
   B ---->|No| E[Yay!];
 ```
+
+
+# API Reference
+
+## User Endpoints
+[OAD(./docs/openapi.md)]
+
+::openapi::openapi.yaml
